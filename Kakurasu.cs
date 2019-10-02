@@ -1,3 +1,9 @@
+/* 
+Author: Gurman Brar
+BME 24'
+University of Waterloo
+*/
+
 using System;
 using static System.Console;
 
